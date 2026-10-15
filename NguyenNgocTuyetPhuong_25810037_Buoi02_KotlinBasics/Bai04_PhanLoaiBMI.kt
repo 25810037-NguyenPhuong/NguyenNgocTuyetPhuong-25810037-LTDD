@@ -1,4 +1,3 @@
-// Họ tên: Nguyễn Ngọc Tuyết Phương - MSSV: 25810037
 fun main() {
     val canNang: Double = 65.0
     val chieuCao: Double = 1.70

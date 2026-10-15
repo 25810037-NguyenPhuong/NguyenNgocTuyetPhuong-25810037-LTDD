@@ -1,4 +1,3 @@
-// Họ tên: Nguyễn Ngọc Tuyết Phương - MSSV: 25810037
 fun main() {
     val soLuong: Int = 3
     val donGia: Double = 125000.0

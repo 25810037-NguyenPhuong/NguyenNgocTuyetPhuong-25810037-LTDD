@@ -1,4 +1,3 @@
-// Họ tên: Nguyễn Ngọc Tuyết Phương - MSSV: 25810037
 fun main() {
     val diemTrungBinh: Double = 7.8
 

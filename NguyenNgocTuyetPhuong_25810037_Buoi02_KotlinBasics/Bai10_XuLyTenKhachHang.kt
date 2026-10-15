@@ -1,4 +1,3 @@
-// Họ tên: Nguyễn Ngọc Tuyết Phương - MSSV: 25810037
 fun xuLyTenKhachHang(tenKhachHang: String?) {
     // safe call: neu ten la null thi ket qua la null, khong bi loi
     val doDai = tenKhachHang?.length

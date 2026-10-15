@@ -1,4 +1,3 @@
-// Họ tên: Nguyễn Ngọc Tuyết Phương - MSSV: 25810037
 fun main() {
     // dung val vi so du ban dau chi de doi chieu, khong bao gio thay doi
     val soDuBanDau: Long = 5000000
