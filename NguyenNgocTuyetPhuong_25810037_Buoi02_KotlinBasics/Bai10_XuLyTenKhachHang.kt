@@ -1,3 +1,4 @@
+// Ho ten: Nguyen Ngoc Tuyet Phuong - MSSV: 25810037
 fun xuLyTenKhachHang(tenKhachHang: String?) {
     // safe call: neu ten la null thi ket qua la null, khong bi loi
     val doDai = tenKhachHang?.length

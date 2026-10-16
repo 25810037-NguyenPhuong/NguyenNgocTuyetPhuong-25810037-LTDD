@@ -1,3 +1,4 @@
+// Ho ten: Nguyen Ngoc Tuyet Phuong - MSSV: 25810037
 fun main() {
     val soLuong: Int = 3
     val donGia: Double = 125000.0
