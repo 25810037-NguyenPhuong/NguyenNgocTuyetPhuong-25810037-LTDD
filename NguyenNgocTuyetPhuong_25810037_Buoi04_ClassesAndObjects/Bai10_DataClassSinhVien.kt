@@ -1,3 +1,4 @@
+// Ho ten: Nguyen Ngoc Tuyet Phuong - MSSV: 25810037
 data class SinhVien(val mssv: String, val hoTen: String, val diemTrungBinh: Double)
 
 fun main() {

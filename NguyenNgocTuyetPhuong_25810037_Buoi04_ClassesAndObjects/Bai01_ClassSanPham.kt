@@ -1,3 +1,4 @@
+// Ho ten: Nguyen Ngoc Tuyet Phuong - MSSV: 25810037
 class SanPham(val tenSanPham: String, val gia: Double, val soLuongTonKho: Int = 0)
 
 fun main() {

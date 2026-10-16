@@ -1,3 +1,4 @@
+// Ho ten: Nguyen Ngoc Tuyet Phuong - MSSV: 25810037
 open class DongVat(val ten: String) {
     open fun keu(): String {
         return "..."

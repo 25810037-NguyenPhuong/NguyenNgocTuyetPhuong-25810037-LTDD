@@ -1,3 +1,4 @@
+// Ho ten: Nguyen Ngoc Tuyet Phuong - MSSV: 25810037
 class TaiKhoanNganHang(val soTaiKhoan: String, soDuBanDau: Double) {
     var soDu: Double = soDuBanDau
 

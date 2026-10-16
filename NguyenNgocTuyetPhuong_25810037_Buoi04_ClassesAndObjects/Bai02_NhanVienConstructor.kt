@@ -1,3 +1,4 @@
+// Ho ten: Nguyen Ngoc Tuyet Phuong - MSSV: 25810037
 class NhanVien(maNhanVien: String, val ten: String, var luongThang: Double) {
     // constructor phu chi nhan ten, goi lai constructor chinh bang this
     constructor(ten: String) : this("TAM", ten, 0.0)

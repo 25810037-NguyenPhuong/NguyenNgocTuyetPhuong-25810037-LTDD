@@ -1,3 +1,4 @@
+// Ho ten: Nguyen Ngoc Tuyet Phuong - MSSV: 25810037
 class KhachHang(var ho: String, var ten: String) {
     var hoTen: String
         get() = "$ho $ten"
