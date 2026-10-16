@@ -1,3 +1,4 @@
+// Ho ten: Nguyen Ngoc Tuyet Phuong - MSSV: 25810037
 // 1. tinh binh phuong
 fun binhPhuong(x: Int): Int {
     return x * x

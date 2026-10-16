@@ -1,3 +1,4 @@
+// Ho ten: Nguyen Ngoc Tuyet Phuong - MSSV: 25810037
 // ban khai bao tuong minh kieu tra ve Unit
 fun ghiNhatKy(hanhDong: String): Unit {
     println("[NHẬT KÝ] $hanhDong")

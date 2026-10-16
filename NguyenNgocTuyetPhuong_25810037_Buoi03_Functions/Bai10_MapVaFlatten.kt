@@ -1,3 +1,4 @@
+// Ho ten: Nguyen Ngoc Tuyet Phuong - MSSV: 25810037
 fun main() {
     println("--- Phần 1: map ---")
     val danhSachSo = listOf(1, 2, 3, 4, 5)

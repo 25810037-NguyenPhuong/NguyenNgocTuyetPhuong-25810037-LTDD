@@ -1,3 +1,4 @@
+// Ho ten: Nguyen Ngoc Tuyet Phuong - MSSV: 25810037
 fun main() {
     val kiemTraDoDai: (String) -> Boolean = { matKhau -> matKhau.length >= 8 }
 

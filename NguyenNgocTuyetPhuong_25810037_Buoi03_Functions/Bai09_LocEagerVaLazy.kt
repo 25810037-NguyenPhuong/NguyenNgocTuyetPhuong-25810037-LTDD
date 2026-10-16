@@ -1,3 +1,4 @@
+// Ho ten: Nguyen Ngoc Tuyet Phuong - MSSV: 25810037
 fun main() {
     val nhacCu = listOf("Piano", "Guitar", "Violin", "Trống", "Sáo", "Ukulele", "Gong", "Đàn tranh")
     val chuCai = 'G'

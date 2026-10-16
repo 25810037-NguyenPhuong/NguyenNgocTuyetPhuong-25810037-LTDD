@@ -1,3 +1,4 @@
+// Ho ten: Nguyen Ngoc Tuyet Phuong - MSSV: 25810037
 fun datBan(tenKhachHang: String, soLuongKhach: Int, loaiBan: String = "Bàn thường") {
     println("Khách hàng: $tenKhachHang - Số khách: $soLuongKhach - Loại bàn: $loaiBan")
 }
